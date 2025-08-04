@@ -206,7 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 data/
+*.db
 data/im/im.db
-data/im/im.db
-data/im/im.db
+
+
 data/im.db
