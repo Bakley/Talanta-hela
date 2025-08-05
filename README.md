@@ -59,6 +59,9 @@ Talanta-hela
  ┃ ┣ rt.reviews.tsv
  ┃ ┣ tmdb.movies.csv
  ┃ ┗ im.db
+ ┣ visuals
+ ┃ ┣ freshness_by_genre.png
+ ┃ ┗ genre_distribution.png
  ┣ notebooks
  ┃ ┣ StatisticalTesting_on_hypotheses.ipynb
  ┃ ┗ data_validation.ipynb
