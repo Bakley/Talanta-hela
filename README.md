@@ -82,4 +82,4 @@ This project is provided for educational and exploratory purposes.
 ## Link to slides, tabluea
 [Canva Designs](https://www.canva.com/design/DAGvKQ2GDdU/Aeiu9X_lKRNWK2BvLeghKg/edit)
 
-[Interactive Tableau dashboard]()
+[Interactive Tableau dashboard](https://public.tableau.com/app/profile/achieng.otieno/viz/Talanta_Hela/BoxOffice?publish=yes)
